@@ -1,0 +1,137 @@
+h1{
+    text-align: center;
+    color: rgb(245, 2, 2);
+}
+body{
+    /* background-image: url("./images/online1.webp"); */
+    background-size: cover;
+    background-color: rgba(0, 255, 255, 0.174);
+}
+input{
+    width: 500px;
+    margin-top: -100px;
+    margin-left: 50px;
+    border-radius: 100px;
+    
+}
+.col-2{
+    margin-top: -40px;
+    margin-left: 130px;
+    
+
+}
+.col-3{
+    margin-top: -40px;
+    margin-left: 210px;
+
+}
+.col-4{
+    margin-top: -40px;
+    margin-left: 311px;
+
+}
+.col-5{
+    margin-top: -40px;
+    margin-left: 424px;
+
+}
+.col-6{
+    margin-top: -40px;
+    margin-left: 1120px;
+    
+
+}
+.col-7{
+    margin-top: -21px;
+    margin-left: 1185px;
+
+}
+button{
+    border-radius: 100px;
+    background-color: rgb(249, 167, 14);
+    
+}
+.col-8{
+    margin-top: 100px;
+}
+.col-9{
+    text-align: center;
+}
+.col-10{
+    width: 350px;
+    height: 200px;
+    background-color: rgba(88, 83, 83, 0.996); */
+    margin-left: 11px;
+    margin-top: 100px;
+    color: azure;
+
+}
+h4{
+    margin-left: 50px;
+}
+.col-11{
+    width: 350px;
+    height: 200px;
+    background-color:  rgb(88, 83, 83);
+    margin-left: 362px;
+    margin-top: -200px;
+    color: azure;
+
+}
+.col-12{
+    width: 350px;
+    height: 200px;
+    background-color:  rgb(88, 83, 83);
+    margin-left: 722px;
+    margin-top: -200px;
+    color: azure;
+
+}
+.col-13{
+    width: 350px;
+    height: 200px;
+    background-color:  rgb(88, 83, 83);
+    margin-left: 1083px;
+    margin-top: -200px;
+    color: azure;
+} 
+button{
+    margin-left: 100px;
+}  
+h2{
+    text-align: center;
+}
+.col-15{
+    text-align: center;
+}
+.col-16{
+    float: left;
+    background-color: black;
+}
+.col-17{
+    margin-left: 500px;
+
+}
+.col-19{
+    float: left;
+    
+}
+.col-20{
+    
+
+}
+.col-22{
+    float: left;
+    
+    
+}
+.h3{
+    float: left;
+}
+.col-23{
+    margin-left: 1273px;
+    margin-top: 150px;
+    
+
+}
+
